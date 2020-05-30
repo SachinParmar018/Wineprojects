@@ -1,4 +1,4 @@
-# projects
+#Predict Cultivator Wine
 import numpy as np,pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
